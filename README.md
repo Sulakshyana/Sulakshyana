@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sulakshyana Ghimire
 <!-- ![banner](https://via.placeholder.com/1200x300.png?text=Hi+there%2C+I'm+Sulakshyana+Ghimire)   -->
-<!-- *(Replace the banner above with your own image at `/assets/banner.png` or a hosted URL)* -->
 Frontend Developer | React.js | Node.js  
 📍 Nepal • ✉️ swastikaghimire100@gmail.com
 
@@ -38,7 +37,7 @@ Tech: HTML5, CSS3, JavaScript (ES6)
 - Used Weather API to fetch real-time city data  
 - CRUD with LocalStorage and modular JS structure
 
-[View repo →](https://github.com/Sulakshyana) <!-- replace with actual repo link -->
+[View repo →](https://github.com/Sulakshyana/multiapp-dashboard)
 
 ### 🔹 VidTube (Backend Project)
 Tech: Node.js, Express.js, MongoDB, JWT, Cloudinary  
@@ -46,7 +45,7 @@ Tech: Node.js, Express.js, MongoDB, JWT, Cloudinary
 - JWT + refresh tokens for authentication  
 - Media uploads with Multer + Cloudinary, pagination & relationships in MongoDB
 
-[View repo →](https://github.com/Sulakshyana) <!-- replace with actual repo link -->
+[View repo →](https://github.com/Sulakshyana/vidTube)
 
 ---
 
@@ -84,10 +83,5 @@ Tech: Node.js, Express.js, MongoDB, JWT, Cloudinary
 - Email: swastikaghimire100@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/sulakshyana-ghimire/ 
 - Portfolio / Website: [Coming soon...](https://github.com/Sulakshyana)
-
----
-
-## 📊 GitHub Stats
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulakshyana&theme=tokyonight)
 
 ---
